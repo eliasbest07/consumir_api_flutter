@@ -1,10 +1,23 @@
 # consumirapi_demo
 
-A new Flutter project.
+Primera vez consumiend una API y subiendo un repositorio
 
-## Getting Started
+## MVVM del proyecto
 
-This project is a starting point for a Flutter application.
+Tiene las siguientes carpetas  /model /server /screens
+
+/model se encuentra la clase que procera y forma el objeto obtenido del Json que devuelve la API.
+/server está el .dart el cual es una clase donde está el método que conecta a la API para obtener el Json y es donde se encuentra la dirección https:// de la API donde vemos el Json.
+/screens se encuentra la UI formada de Widgets con la cual mostramos todos los objetos que contiene el Json de forma agradable para visualizar el usuario. 
+
+## Project's MVVM
+
+This project has the next folder /model /server /screens
+
+/model the class that procerates and forms the object obtained from the Json that the API returns. 
+/server there is the .dart which is a class where the method that connects to the API to get the Json is and it is where the https:// address of the API where we see the Json is located.
+/screens there is the UI formed of Widgets with which we show all the objects contained in the Json in a pleasant way to visualize the user.
+
 
 A few resources to get you started if this is your first Flutter project:
 
